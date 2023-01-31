@@ -1,4 +1,4 @@
-# Meesho Website Clone
+# Meesho Clone
 
 Meesho is a social commerce platform that undertakes retail distribution, enabling small retail merchants to connect and sell their products effectively via social media channels.
 
@@ -6,6 +6,19 @@ Meesho is a social commerce platform that undertakes retail distribution, enabli
 # Deployed link of the Website
 
 https://myreact-project-meesho.vercel.app/
+
+# Tech Stack Used
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+- Material-UI
+
+
+
+
 
 
 
